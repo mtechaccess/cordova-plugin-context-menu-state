@@ -1,6 +1,6 @@
 {
   "name": "cordova-plugin-context-menu-state",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Disable iOS cut/copy/paste context menu",
   "main": "index.js",
   "scripts": {
