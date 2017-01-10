@@ -1,5 +1,5 @@
 {
-  "name": "cordova-plugin-disable-context-menu",
+  "name": "cordova-plugin-context-menu-state",
   "version": "0.1.0",
   "description": "Disable iOS cut/copy/paste context menu",
   "main": "index.js",
@@ -7,5 +7,17 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Mtech Access Ltd.",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mtechaccess/cordova-plugin-context-menu-state.git"
+  },
+  "keywords": [
+    "cordova",
+    "contextmenu"
+  ],
+  "bugs": {
+    "url": "https://github.com/mtechaccess/cordova-plugin-context-menu-state/issues"
+  },
+  "homepage": "https://github.com/mtechaccess/cordova-plugin-context-menu-state#readme"
 }
