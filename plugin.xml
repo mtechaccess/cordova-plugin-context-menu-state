@@ -29,7 +29,7 @@
     <keywords>cordova,contextmenu</keywords>
 
     <engines>
-            <engine name="cordova" version=">=3.0.0" />
+            <engine name="cordova-ios" version=">=4.0.0" />
     </engines>
 
     <js-module src="www/contextMenuState.js" name="contextMenuState">

@@ -13,11 +13,25 @@
     "url": "git+https://github.com/mtechaccess/cordova-plugin-context-menu-state.git"
   },
   "keywords": [
+    "ecosystem:cordova",
+    "cordova-ios",
     "cordova",
     "contextmenu"
   ],
   "bugs": {
     "url": "https://github.com/mtechaccess/cordova-plugin-context-menu-state/issues"
   },
-  "homepage": "https://github.com/mtechaccess/cordova-plugin-context-menu-state#readme"
+  "homepage": "https://github.com/mtechaccess/cordova-plugin-context-menu-state#readme",
+  "cordova": {
+    "id": "cordova-plugin-context-menu-state",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "engines": [
+    {
+      "name": "cordova-ios",
+      "version": ">=4.0.0"
+    }
+  ]
 }
