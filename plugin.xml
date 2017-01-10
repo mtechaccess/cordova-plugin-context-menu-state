@@ -32,7 +32,7 @@
             <engine name="cordova" version=">=3.0.0" />
     </engines>
 
-    <js-module src="www/contextMenu.js" name="contextMenuState">
+    <js-module src="www/contextMenuState.js" name="contextMenuState">
         <clobbers target="window.ContextMenuState" />
     </js-module>
 
