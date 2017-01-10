@@ -6,7 +6,7 @@
 
 > By default, installation of this plugin hides the context menu.
 
-:warning: Report any issues on the [`ContextMenuState issue tracker](https://github.com/mtechaccess/cordova-plugin-context-menu-state/issues)
+:warning: Report any issues on the [`ContextMenuState` issue tracker](https://github.com/mtechaccess/cordova-plugin-context-menu-state/issues)
 
 ## Installation
 
