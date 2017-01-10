@@ -1,8 +1,7 @@
 {
   "name": "cordova-plugin-context-menu-state",
   "version": "0.2.1",
-  "description": "Disable iOS cut/copy/paste context menu",
-  "main": "index.js",
+  "description": "Cordova plugin to show/hide iOS context menu",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -33,5 +32,8 @@
       "name": "cordova-ios",
       "version": ">=4.0.0"
     }
-  ]
+  ],
+  "directories": {
+    "test": "tests"
+  }
 }
