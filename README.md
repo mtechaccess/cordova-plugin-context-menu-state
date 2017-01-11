@@ -31,7 +31,8 @@ Although in the global scope, it is not available until after the `deviceready` 
 ```javascript
 document.addEventListener("deviceready", onDeviceReady, false);
 function onDeviceReady() {
-    console.log(StatusBar);
+    console.log(ContextMenuState);
+    ContextMenuState.setVisible(true);
 }
 ```
 
