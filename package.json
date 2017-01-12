@@ -1,7 +1,7 @@
 {
   "name": "cordova-plugin-context-menu-state",
   "version": "0.2.4",
-  "description": "Cordova plugin to show/hide iOS context menu",
+  "description": "Plugin to show/hide iOS context menu",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,7 +15,9 @@
     "ecosystem:cordova",
     "cordova-ios",
     "cordova",
-    "contextmenu"
+    "context",
+    "menu",
+    "plugin"
   ],
   "bugs": {
     "url": "https://github.com/mtechaccess/cordova-plugin-context-menu-state/issues"
